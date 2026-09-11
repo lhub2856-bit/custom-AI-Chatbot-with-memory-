@@ -1,0 +1,22 @@
+# Python Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment & API Key Files (Security)
+.env
+.env.local
+*.env
+
+# VS Code & IDE Settings
+.vscode/
+.idea/
+
+# Streamlit Local Cache
+.streamlit/
